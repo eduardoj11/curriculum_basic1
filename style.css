@@ -1,1 +1,26 @@
-
+*
+{
+    font-style: normal;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.profilepic
+{
+    border-radius: 15px;
+}
+.prinfor
+{
+    text-align: justify;
+}
+em
+{
+    font-weight: bold;
+    color: #000080;
+}
+h2
+{
+    background-color: blanchedalmond;
+}
+p
+{
+    background-color: white;
+}
